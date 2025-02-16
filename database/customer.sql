@@ -1,0 +1,31 @@
+INSERT INTO 'customer'
+VALUES
+(1,
+'2023-07-21 01:32:34',
+'2023-07-21 01:32:34',
+'natthawut',
+'paopngeon',
+'natthawut@gmail.com',
+'083-9017840',
+'71 ม.3 ต.บ้านแพน อ.เสนา จ.พระนครศรีอยุธยา 13110',
+'https://upload.wikimedia.org/wikipedia/en/4/4e/Ultraman_Profile_Photo.jpg'),
+(2,
+'2023-07-21 01:32:36',
+'2023-07-21 01:32:36',
+'Phagamas',
+'Khiewpad',
+'phagamas.khiew@vru.ac.th',
+'099-7422321',
+'90-530  AAA AAAAA 12150',
+'https://preview.redd.it/ht7xo2qyglea1.jpg?auto=webp&s=76bec4af4579b0a0fb243b27edc711e61b75e9e4'
+),
+(3,
+'2023-07-21 01:32:36',
+'2023-07-21 01:32:36',
+'Phagamas',
+'Khiewpad',
+'phagamas.khiew@vru.ac.th',
+'099-7422321',
+'90-530  AAA AAAAA 12150',
+'https://preview.redd.it/ht7xo2qyglea1.jpg?auto=webp&s=76bec4af4579b0a0fb243b27edc711e61b75e9e4'
+);
